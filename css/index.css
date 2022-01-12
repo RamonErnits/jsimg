@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    background-color: wheat;
+    text-align: center;
+    font-size: 2rem;
+    list-style-type: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+
+h1{
+    text-align: center;
+    margin: 15rem auto;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
+body{
+    background-color: wheat;
+}
